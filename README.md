@@ -39,10 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](file:///C:/Users/harte/OneDrive/Desktop/Pre%20Assignment.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](![Pre Assignment](https://user-images.githubusercontent.com/78621282/160748283-869508d3-f923-4551-a2ae-b41126a97389.gif)
+)
+![](![Pre Assignment1](https://user-images.githubusercontent.com/78621282/160748304-e4b72744-ddec-4751-8e57-d3b91fe04ac2.gif)
+)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
