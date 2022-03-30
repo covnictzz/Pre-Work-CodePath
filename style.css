@@ -21,13 +21,13 @@ body {
 }
 button {
   padding: 15px;
-  border-radius : 50px;
+  border-radius : 5px;
 }
 
 #gameButtonArea > button {
   width : 100px;
   height : 100px;
-  margin : 2px;
+  margin : 5px;
   
   
 }
